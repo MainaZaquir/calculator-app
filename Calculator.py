@@ -1,6 +1,8 @@
 import tkinter as tk
 
+
 def evaluate_expression():
+    
     try:
         result = eval(entry.get())
         result_label.config(text="Result: " + str(result))
