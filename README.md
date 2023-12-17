@@ -41,19 +41,7 @@ The Java implementation uses Swing for creating the graphical user interface.
 
 4. The calculator window will open, and you can start performing calculations.
 
-## C# Implementation
 
-The C# implementation uses Windows Forms for creating the graphical user interface.
-
-### Instructions
-
-1. Install Visual Studio or the .NET Core SDK on your machine if they are not already installed. You can download Visual Studio from the official website: [visualstudio.microsoft.com](https://visualstudio.microsoft.com/).
-
-2. Open the `Calculator.cs` file in Visual Studio or your favorite C# IDE.
-
-3. Build and run the application using the IDE's built-in features.
-
-4. The calculator window will open, and you can start performing calculations.
 
 Feel free to modify and extend the application according to your needs or use it as a learning resource. If you have any questions or suggestions, please feel free to reach out or submit an issue in this repository.
 
